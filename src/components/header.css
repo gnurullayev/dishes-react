@@ -1,0 +1,22 @@
+.header {
+    min-height: 100px;
+    background-color: rgb(54, 40, 27);
+}
+
+.header-inner {
+    min-height: 100px;
+}
+
+.link {
+    color: white;
+    border-radius: 5px;
+}
+
+.link:hover {
+    color: white;
+    background-color: rgb(179, 58, 10);
+}
+
+.link:first-child {
+    background-color: rgb(179, 58, 10);
+}

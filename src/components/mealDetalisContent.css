@@ -1,0 +1,6 @@
+.table-list {
+    width: 100%;
+    /* visibility: hidden; */
+    height: 0px;
+    min-height: 0;
+}

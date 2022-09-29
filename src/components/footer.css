@@ -1,0 +1,20 @@
+.footer {
+    min-height: 100px;
+    background-color: rgb(54, 40, 27);
+    color: #fff;
+}
+
+.footer-inner {
+    min-height: 100px   ;
+}
+.footer-nav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-nav__link {
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: all .15s linear;
+}
