@@ -32,3 +32,7 @@ code {
   background-color: rgb(90, 67, 45);
   color: #fff;
 }
+
+.row {
+  padding-left: 0;
+}
